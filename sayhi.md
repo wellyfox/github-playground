@@ -6,3 +6,4 @@ This is a page for new users to make sure they have the workflow for making chan
 
 * Jake (Hi!)
 * Dago (Hello!)
+* Steve (Hello)
